@@ -1,0 +1,12 @@
+Text: 🥇 Первый корпус | Name: Egor | Username: zozoo_ez | Time: 28.08.2023 11:25:15
+Text: /start | Name: undefined | Username: undefined | Time: 07.09.2023 20:26:43
+Text: /start | Name: undefined | Username: undefined | Time: 07.09.2023 20:28:57
+Text: 🥇 Первый корпус | Name: undefined | Username: undefined | Time: 07.09.2023 20:29:03
+Text: 🥈 Второй корпус | Name: undefined | Username: undefined | Time: 07.09.2023 20:29:05
+Text: 📋 Расписание звонков | Name: undefined | Username: undefined | Time: 07.09.2023 20:29:08
+Text: 📅 Праздничные дни | Name: undefined | Username: undefined | Time: 07.09.2023 20:29:09
+Text: 📔 Автоматическая отправка расписания (beta) | Name: undefined | Username: undefined | Time: 07.09.2023 20:29:10
+Text: /inactive@bottestraspbot | Name: undefined | Username: undefined | Time: 07.09.2023 20:29:50
+Text: 📔 Автоматическая отправка расписания (beta) | Name: undefined | Username: undefined | Time: 07.09.2023 20:30:04
+Text: /start | Name: undefined | Username: undefined | Time: 07.09.2023 20:30:41
+Text: 🥇 Первый корпус | Name: undefined | Username: undefined | Time: 07.09.2023 20:30:45
